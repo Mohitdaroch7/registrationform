@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">registrationform</string>
+    <string name="enter_new_password">Enter new password</string>
+    <string name="enter_confirm_password">Enter confirm password</string>
+</resources>
